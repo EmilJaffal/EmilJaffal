@@ -12,6 +12,6 @@ Check out my website [here](https://emiljaffal.github.io)!
 
 | #   | Project                              | Description                                                                                                                                                  | Publication Link         |
 | --- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
-| 1   | Composition Analyzer/Featurizer (CAF) | Generates chemical compositional features and offers a suite of tools for data manipulation, including filtering, sorting, and merging.                          | TBA (Summer 2024)        |
+| 1   | Composition Analyzer/Featurizer (CAF)(https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and offers a suite of tools for data manipulation, including filtering, sorting, and merging.                          | TBA (Summer 2024)        |
 
 ---
