@@ -10,8 +10,10 @@ Check out my website [here](https://emiljaffal.github.io)!
 
 ## Notable Code Projects
 
-| #   | Project                              | Description                                                                                                                                                  | Publication Link         |
-| --- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
-| 1   | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and offers a suite of tools for data manipulation, including filtering, sorting, and merging.                          | TBA (Summer 2024)        |
+| #   | Project                              | Description                                                                                                                                                  | Publication Link                                      |
+| --- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| 1   | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and offers a suite of tools for data manipulation, including filtering, sorting, and merging.                          | [Pre-print](https://chemrxiv.org/engage/chemrxiv/article-details/670aa269cec5d6c142f3b11a) |
+| 2   | [CIF Site Analysis](https://github.com/EmilJaffal/Site-Analysis)              | Tools for site-specific analysis in crystallographic information files (CIFs), focusing on geometric and structural insights.                                  | TBA                                                |
+
 
 ---
