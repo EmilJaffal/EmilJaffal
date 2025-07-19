@@ -8,6 +8,11 @@ Check out my website [here](https://emiljaffal.github.io)!
 
 Check out my materials informatics tutorial [here](https://github.com/OliynykLab/Materials-Informatics-Courses/tree/main)!
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Nt1fM10AAAAJ&hl=en)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@OliynykLab)
+
+![EmilJaffal's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilJaffal&show_icons=true&theme=default)
+
 ---
 
 ## Some Cool Software
