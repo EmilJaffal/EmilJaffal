@@ -4,9 +4,7 @@ Hi! I'm a PhD student at City University in NYC. My research interests are prett
 
 I'm currently working with Dr. Anton Oliynyk on synthesizing and studying novel intermetallic compounds. We use electronic structure calculations and machine-learning methods to predict things like crystal structures, transport properties, superconductivity, or magnetism. Our research focuses on intermetallics involving rare-earth elements, with every ML model we develop being experimentally validated.
 
-Check out my website [here](https://emiljaffal.github.io)!
-
-Check out my materials informatics tutorial [here](https://github.com/OliynykLab/Materials-Informatics-Courses/tree/main)!
+Check out my website [here](https://emiljaffal.github.io), and my materials informatics tutorials [here](https://github.com/OliynykLab/Materials-Informatics-Courses/tree/main).
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Nt1fM10AAAAJ&hl=en)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@OliynykLab)
